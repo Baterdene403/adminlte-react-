@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adminlte-react/static/css/main.22d0c9d6.css",
+    "main.js": "/adminlte-react/static/js/main.c028b28a.js",
+    "static/js/787.0ca7546d.chunk.js": "/adminlte-react/static/js/787.0ca7546d.chunk.js",
+    "index.html": "/adminlte-react/index.html",
+    "main.22d0c9d6.css.map": "/adminlte-react/static/css/main.22d0c9d6.css.map",
+    "main.c028b28a.js.map": "/adminlte-react/static/js/main.c028b28a.js.map",
+    "787.0ca7546d.chunk.js.map": "/adminlte-react/static/js/787.0ca7546d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22d0c9d6.css",
+    "static/js/main.c028b28a.js"
+  ]
+}
